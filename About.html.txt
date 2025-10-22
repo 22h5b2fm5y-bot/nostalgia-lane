@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - Nostalgia Lane Ltd</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Same navigation as home -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <img src="logo.png" alt="Nostalgia Lane Ltd" class="logo">
+            <ul class="nav-menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="items.html">Shop</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section class="about-content">
+        <h1>About Nostalgia Lane Ltd</h1>
+        <p>Founded in 2025, Nostalgia Lane Ltd is your ultimate destination for authentic Pokémon cards and toys. We specialize in rare collectibles that bring back childhood memories for collectors of all ages.</p>
+        <p>Our mission: Keep the Pokémon spirit alive! 🌟</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Nostalgia Lane Ltd. All rights reserved.</p>
+    </footer>
+</body>
+</html>
